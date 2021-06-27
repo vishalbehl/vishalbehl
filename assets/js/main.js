@@ -68,7 +68,7 @@ let header = $(`
 <li><a href="index.html">Home</a></li>
 <li><a href="experience.html">Experience</a></li>
 <li><a href="https://github.com/vishalbehl">Projects</a></li>
-<li><a href="research.html">Research</a></li>
+<!--<li><a href="research.html">Research</a></li>-->
 <li><a href="education.html">Education</a></li>
 <li><a href="index.html">Blog</a></li>
 <li><a href="" target="_blank">My Resume</a></li>
