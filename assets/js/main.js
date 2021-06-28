@@ -40,9 +40,10 @@ let header = $(`
         <li><a class="white-text" href="https://github.com/vishalbehl" target="blank">Projects</a></li>
     <!--<li><a class="white-text" href="research.html">Research</a></li>-->
         <li><a class="white-text" href="education.html">Education</a></li>
-        <li><a class="white-text" href="https://medium.com/@vishalbehl17" target="blank">Blog</a></li>
+        <li><a class="white-text" href="404.html" target="blank">Blog</a></li>
         <li><a class="white-text" href="" target="_blank">My Resume</a></li>
         <!--TOGGLE FOR LIGHT/DARK MODE-->
+        <!--https://medium.com/@vishalbehl17-->
         <li>
         <label for="switch" class="theme-switch">
         <input class="toggle-checkbox" type="checkbox" id="switch" name="theme" />
@@ -164,7 +165,7 @@ let footer = $(`
   </div>
 -->
   <div class="col-12 text-center">
-  <p><a href=" " class="col-sm-12 text-white">contact@vishalbehl.com</a></p>
+  <p><a href="mailto:vishalbehl17@gmail.com" class="col-sm-12 text-white">contact@vishalbehl.com</a></p>
   </div>
 
   </div>
